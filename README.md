@@ -14,7 +14,7 @@ This is the complete UFO Timeline WordPress theme. This theme must use the same 
 	- [Meta Box](https://wordpress.org/plugins/meta-box/)
 	- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 
-2. Download the [ufotimeline.zip](https://github.com/AlxMedia/ufotimeline/archive/refs/heads/main.zip) from this GitHub repository and upload/activate the theme on your WordPress installation.
+2. Download the [ufotimeline.zip](https://github.com/AlxMedia/ufotimeline/archive/refs/heads/master.zip) from this GitHub repository and upload/activate the theme on your WordPress installation.
 
 3. Download the latest theme data **XML** file:
 	- [ufotimeline.WordPress.2024-11-23.xml](https://www.dropbox.com/scl/fi/4ap0kxp5ylhubeugme2ow/ufotimeline.WordPress.2024-11-23.xml?rlkey=h43qdtoh24gli0xuk90njs8qw&dl=1) (~2MB)
